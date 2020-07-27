@@ -3,7 +3,7 @@
 ### I’m Product Designer at [Glossier](https://glossier.com) currently working on design systems, e-commerce, and retail technology. Previously from Square, Cadre, and Codecademy.
 
 ## 🌱 Currently…
-- Helping maintain [SwiftUI Kit](https://github.com/SwiftUIApps/SwiftUI-Kit)-
+- I’m helping maintain [SwiftUI Kit](https://github.com/SwiftUIApps/SwiftUI-Kit), a SwiftUI system components and interactions demo app for iOS, iPadOS, Apple TV, and Apple Watch
 - Learning SwiftUI, JavaScript, and React
 
 ## 🌎 Elsewhere
