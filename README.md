@@ -1,6 +1,6 @@
 # 👋🏼
 
-### Product Design Lead at [Glossier](https://glossier.com) currently working on design systems, e-commerce, and retail technology. Previously from Square, Cadre, and Codecademy.
+### Senior Product Designer at [Brex](https://brex.com) currently working on design systems. Previously from Glossier, Square, Cadre, and Codecademy.
 
 ## 🌱 Currently…
 - I’m helping maintain [SwiftUI Kit](https://github.com/SwiftUIApps/SwiftUI-Kit), a SwiftUI system components and interactions demo app for iOS, iPadOS, Apple TV, and Apple Watch
