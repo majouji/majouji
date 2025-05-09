@@ -1,4 +1,4 @@
-### Design Systems at [Brex](https://brex.com). Previously from Glossier, Square, Cadre, and Codecademy.
+### Product Design (and a bit of front-end) at [Brex](https://brex.com). Previously from Glossier, Square, Cadre, and Codecademy.
 
 ### 🌎 Elsewhere
 - [Twitter](https://twitter.com/majouji)
